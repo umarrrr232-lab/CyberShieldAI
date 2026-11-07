@@ -1,6 +1,6 @@
 # CyberShieldAI
 
-I just finished CyberShield AI, a full-stack machine learning web app for cybersecurity threat detection, built with my teammates [@names] for our ML lab.
+I just finished CyberShield AI, a full-stack machine learning web app for cybersecurity threat detection.
 
 It runs 4 models behind one FastAPI backend:
 - Network traffic: Random Forest that tells normal traffic from 4 types of DoS attack
